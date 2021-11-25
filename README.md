@@ -9,7 +9,7 @@
 - Docker
 - Gradle 7+
 
-## Builar e executar seu container docker.
+## Buildar e executar seu container docker.
 
 Na raiz do seu projeto executar os seguintes comandos abaixo:
 
