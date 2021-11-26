@@ -7,7 +7,7 @@ ADD build/libs/*.jar app.jar
 # Também pode ser utilizado o comando COPY
 
 EXPOSE 8080
-# Usado mais para fins de documentação, afinal quem
+# Usado para indicar qual porta o container vai estar escutando quando iniciado
 
 VOLUME /dio
 # Argumento usado para criar uma pasta que poderá ser compartilhada entre os container que ficará disponivel na maquina HOST
